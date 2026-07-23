@@ -84,7 +84,7 @@ pfcp
 
 Successfully demonstrated Control and User Plane Separation (CUPS). The PFCP Session Establishment between SMF and UPF was captured successfully using Wireshark.
 
-## Screenshots
+## Images
 
 1. Open5GS WebUI Dashboard
 The Open5GS WebUI dashboard provides access to manage subscribers and monitor the 5G Core Network configuration.
