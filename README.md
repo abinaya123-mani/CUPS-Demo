@@ -65,16 +65,6 @@ Successfully demonstrated Control and User Plane Separation (CUPS). The PFCP Ses
 
 ## Screenshots
 
-- Open5GS Subscriber Configuration
-- UE Registration Successful
-- PFCP Session Establishment Request
-- PFCP Session Establishment Response
-- PFCP Session Modification Request
-- PFCP Session Modification Response
-Control and User Plane Separation (CUPS) using Open5GS, UERANSIM and Wireshark
-
-## Screenshots
-
 1. Open5GS WebUI Dashboard
 The Open5GS WebUI dashboard provides access to manage subscribers and monitor the 5G Core Network configuration.
 
