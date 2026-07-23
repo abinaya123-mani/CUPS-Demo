@@ -73,25 +73,6 @@ Screenshots
 - PFCP Session Modification Response
 Control and User Plane Separation (CUPS) using Open5GS, UERANSIM and Wireshark
 
-Project Overview
-
-This project demonstrates Control and User Plane Separation (CUPS) in a 5G Core>
-
-Objective
-
-- Configure Open5GS Core Network.
-- Configure UERANSIM gNB and UE.
-- Register UE with the 5G Core.
-- Establish a PDU Session.
-- Capture PFCP Session Establishment messages using Wireshark.
-- Demonstrate Control Plane and User Plane separation.
-
-Technologies Used
-
-- Ubuntu 22.04
-- Open5GS
-- UERANSIM
-
 Screenshots
 
  1. Open5GS WebUI Dashboard
@@ -117,6 +98,5 @@ Wireshark captures the PFCP (N4) signaling exchanged between the Session Managem
 - PFCP Session Modification Response
 
 This confirms successful implementation of Control and User Plane Separation (CUPS).
-^G Help      ^O Write Out ^W Where Is  ^K Cut       ^T Execute   ^C Location
-^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line
+
 
