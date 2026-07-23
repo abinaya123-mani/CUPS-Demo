@@ -21,6 +21,27 @@ This project demonstrates Control and User Plane Separation (CUPS) in a 5G Core 
 - Wireshark
 - MongoDB
 
+## System Architecture
+
+                    +-----------+
+                    |    UE     |
+                    +-----------+
+                          |
+                          |
+                    +-----------+
+                    |   gNB     |
+                    +-----------+
+                          |
+                    N2    |     N3
+                          |
+          +-------------------------------+
+          |        Open5GS Core           |
+          |                               |
+          | AMF  →  SMF  →(N4 PFCP)→  UPF |
+          +-------------------------------+
+                          |
+                     Internet/Data
+
 ## Network Functions
 
 - AMF – Access and Mobility Management Function
